@@ -1,0 +1,17 @@
+.All {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    color: aqua;
+    text-transform: uppercase;
+}
+
+
+input {
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 5px;
+}
